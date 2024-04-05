@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(243, 243, 243);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#chat {
+  width: 60%;
+  background-color: rgb(250, 250, 250);
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+#header-text {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
