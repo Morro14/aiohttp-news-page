@@ -1,5 +1,6 @@
-Итоговое задание 9.6 (HW-04)
-Запуск:
+###Итоговое задание 9.6 (HW-04)
+##Запуск:
+  - установить зависимости в папке server (pip install -r requirements.txt)
   - запустить server/aiohttp-news/main.py (сервер)
   - запустить client/main.html (например, с помощью Live Server)
   - запустить server/aiohttp-news/news_service.py (посылает "новости" со "стороннего ресурса")
